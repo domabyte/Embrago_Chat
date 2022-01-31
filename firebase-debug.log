@@ -1,0 +1,57 @@
+[debug] [2022-01-27T19:08:23.997Z] ----------------------------------------------------------------------
+[debug] [2022-01-27T19:08:23.999Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\singh\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-01-27T19:08:23.999Z] CLI Version:   10.1.2
+[debug] [2022-01-27T19:08:23.999Z] Platform:      win32
+[debug] [2022-01-27T19:08:24.000Z] Node Version:  v14.17.0
+[debug] [2022-01-27T19:08:24.000Z] Time:          Fri Jan 28 2022 00:38:24 GMT+0530 (India Standard Time)
+[debug] [2022-01-27T19:08:24.001Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-01-27T19:08:24.006Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-01-27T19:08:24.006Z] > authorizing via signed-in user (singhdikshit69@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Embargo⛑️⛑️
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[debug] [2022-01-27T19:08:37.608Z] Error: kill ENOSYS
+    at process.kill (internal/process/per_thread.js:200:13)
+    at process.listener (C:\Users\singh\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\signal-exit\index.js:95:15)
+    at process.emit (events.js:376:20)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2022-01-31T21:53:48.475Z] ----------------------------------------------------------------------
+[debug] [2022-01-31T21:53:48.478Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\singh\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-01-31T21:53:48.478Z] CLI Version:   10.1.2
+[debug] [2022-01-31T21:53:48.478Z] Platform:      win32
+[debug] [2022-01-31T21:53:48.478Z] Node Version:  v14.17.0
+[debug] [2022-01-31T21:53:48.485Z] Time:          Tue Feb 01 2022 03:23:48 GMT+0530 (India Standard Time)
+[debug] [2022-01-31T21:53:48.485Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-01-31T21:53:48.501Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2022-01-31T21:53:48.557Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-01-31T21:53:48.557Z] > authorizing via signed-in user (singhdikshit69@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\EmbargoChat⛑️⛑️
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
